@@ -126,6 +126,7 @@ E.g. medical diagnosis system:
 * **True negative rate**: Proportion of correctly predicted -ve instances.
 
 * Using the same matrix:
+
 | | **Predicted +** | **Predicted -**| | 
 |---:|:---:|:---:|:---|
 **Actual +**| 30 | 20| **50**|
@@ -166,6 +167,7 @@ FPR on validation set is 10/100 = 0.1.
 Suppose 4 classes: $C_1,C_2,C_3,C_4$ and so for OVO there will be $4 \cdot (4-1)/2 = 6$ classifiers.
 <br> 
 * Using the classifiers to vote:
+
 | | $BC_1$| $BC_2$ | $BC_3$ | $BC_4$ | $BC_5$ | $BC_6$ | Votes |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |$C_1$| + | - | - | 0 | 0 | 0 | 1 |
