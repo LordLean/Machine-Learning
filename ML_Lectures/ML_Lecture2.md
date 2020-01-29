@@ -8,7 +8,7 @@
     - set of human faces.
 
 * Notation:
-    - Instance Space is denoted by $X$.
+    - Instance Space is denoted by <img src="https://render.githubusercontent.com/render/math?math=X">.
     - An individual instance will be denoted by $x$.
     - $x \in X$
 
