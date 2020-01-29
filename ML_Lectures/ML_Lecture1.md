@@ -1,4 +1,4 @@
-## Lecture 2 - Machine Learning
+## Lecture 1 - Machine Learning
 
 Three main ingrediants to machine learning are:
 * **Tasks** - problems that require a mapping from data to desired outputs (insights).
