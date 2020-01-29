@@ -16,7 +16,7 @@
 * In supervised problems, each instance is associated with a label.
 
 * Set of all labels is called **label space**.
-    - class labels $C$ in <u> classification</u> tasks. e.g. $C$ = {frogs, badgers}.
+    - class labels $$C$$ in <u> classification</u> tasks. e.g. $C$ = {frogs, badgers}.
     - real numbers $\subseteq R$ in <u> regression</u> tasks. e.g. pixel coordinate.
 
 * Notation:
