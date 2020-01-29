@@ -5,6 +5,24 @@ Three main ingrediants to machine learning are:
 * **Features** - characteristics of the data used to describe domain objects.
 * **Models** - encode the required task mapping.
 
+### (Some) **Machine Learning tasks - health data as an example**:
+* **Classification** 
+    - Binary (C=2) classification involves separating data into two distinct groups (+ and -). 
+    <br> e.g. distinguishing people at risk from heart disease (+), from those not at risk (-).
+    - Generalise to C > 2 different classes.
+
+* **Regression** 
+    - Involves mapping from data items to real values. <br> e.g. quantifying the risk of heart disease on the basis of personal health records.
+
+* **Clustering**
+    - Separating data into different clusters/concepts on the basis of their characteristics. <br> e.g. grouping people according to their genetic characteristics.
+
+* **Collaborative Filtering** 
+    - Identifying rules or associations from data <br> e.g. "recommending" diseases on the basis of patient records and diseases of similar patients.
+
+* **Dimensionality Reduction** 
+    - Visualising the data
+
 ### Teaching the model:
 
 **Supervised Learning** 
