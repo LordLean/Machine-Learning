@@ -12,7 +12,6 @@
     - An individual instance will be denoted by $x$.
     - $x \in X$
     
-$$X$$
 
 ### **Labels and Label Spaces:**
 * In supervised problems, each instance is associated with a label.
